@@ -1,2 +1,2 @@
-# App-de-Taresa
+# App-de-Tareas
 updating read me file
